@@ -1,6 +1,6 @@
 neural language processing(NLP)
 
-aim ----->> summerization certain number of sentence base on importance from a html page
+aim ----->> summerization text to the certain number of sentence base on importance from a html page
 
 
 steps : 
